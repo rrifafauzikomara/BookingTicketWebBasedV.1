@@ -3,7 +3,7 @@
 Mengunakan PHP dan database MySQL
 
 <pre>
-<img src="Screenshot/Selection_001.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-17.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-26.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-33.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-38.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-46.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-51.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-56.png" width="250" height="444">
+<img src="Screenshot/Selection_001.png" width="444" height="250">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-17.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-26.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-33.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-38.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-46.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-51.png" width="250" height="444">         <img src="Screenshot/Screenshot from 2018-06-25 00-31-56.png" width="250" height="444">
 </pre>
 
 <pre>
