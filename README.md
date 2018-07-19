@@ -20,7 +20,7 @@ Mengunakan PHP dan database MySQL
 * [x] Admin melakukan semua CRUD data dan akan di informasikan kepada actor user dan member.
 * [x] Halaman jadwal menampilkan informasi mengenai jadwal keberangkatan bus.
 * [x] Halaman cara pesan menampilkan informasi mengenai cara memesan ticket.
-* [x] Halaman cek pesan dan upload pembayaran tidak berfungsi, hanya di : https://github.com/rrifafauzikomara/AplikasiPemesananTicketBerbasisWeb-V.2 dan http://r-fauzi.xyz/ yang sudah berfungsi (Versi 2).
+* [x] Halaman cek pesan dan upload pembayaran tidak berfungsi, hanya di <a href ="https://github.com/rrifafauzikomara/AplikasiPemesananTicketBerbasisWeb-V.2">sini1</a> dan <a href="http://r-fauzi.xyz/">sini2</a> yang sudah berfungsi (Versi 2).
 * [X] Halaman booking untuk melakukan fungsi memesan ticker, memilih tempat duduk, dan cetak ticket.
 
 ## Author
