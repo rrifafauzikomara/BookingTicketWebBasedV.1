@@ -29,4 +29,4 @@ Mengunakan PHP dan database MySQL
 
 Jangan lupa untuk follow dan ★
 
-Untuk Database bisa hub : 081-221-841-320
+Untuk Databasenya Anda perlu mebelinya <a href="http://wa.me/6281221841320">disini</a>
